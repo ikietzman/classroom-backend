@@ -17,7 +17,7 @@ To optionally add some sample data:
 ```
 go run init/db_init.go
 ```
-
+Then, fire it up:
 ```
 cd classroom-backend
 go run .
